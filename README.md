@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/alice-westerberg-zetterlund-63b00a20a/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="SPOTIFY_PLAYLIST_LINK" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/My_coding_playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify playlist"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=alicewesterberg&style=for-the-badge&color=B44DFF&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
@@ -27,7 +24,6 @@
 - 👩‍🏫 Teaching assistant in **concurrent programming** at LTH
 - 🔧 Background in embedded systems, full-stack development and software testing
 - 🌱 Interested in using ML for environmental and sustainability problems
-- 🎧 Can't code without music — hit the playlist button above
 
 ---
 
