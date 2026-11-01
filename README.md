@@ -15,7 +15,7 @@
   <a href="SPOTIFY_PLAYLIST_LINK" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/My_coding_playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify playlist"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=B44DFF&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=alicewesterberg&style=for-the-badge&color=B44DFF&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ---
@@ -58,8 +58,8 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=121212&title_color=B44DFF&icon_color=E100FF" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=121212&title_color=B44DFF" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alicewesterberg&show_icons=true&theme=radical&hide_border=true&bg_color=121212&title_color=B44DFF&icon_color=E100FF" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicewesterberg&layout=compact&theme=radical&hide_border=true&bg_color=121212&title_color=B44DFF" alt="Top languages"/>
 </p>
 
 ---
@@ -68,8 +68,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" alt="Snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alicewesterberg/alicewesterberg/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/alicewesterberg/alicewesterberg/output/github-snake.svg" alt="Snake animation" />
   </picture>
 </p>
 
