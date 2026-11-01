@@ -58,8 +58,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alicewesterberg&show_icons=true&theme=radical&hide_border=true&bg_color=121212&title_color=B44DFF&icon_color=E100FF" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicewesterberg&layout=compact&theme=radical&hide_border=true&bg_color=121212&title_color=B44DFF" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=alicewesterberg&theme=radical&hide_border=true&background=121212&ring=B44DFF&fire=E100FF&currStreakLabel=B44DFF" alt="GitHub streak"/>
 </p>
 
 ---
