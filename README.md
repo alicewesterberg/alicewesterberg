@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alice-westerberg-zetterlund-63b00a20a/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/alice-westerberg/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=alicewesterberg&style=for-the-badge&color=B44DFF&label=PROFILE+VIEWS" alt="Profile views"/>
